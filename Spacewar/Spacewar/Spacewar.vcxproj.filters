@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Entity.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameError.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayState.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelPlatform.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h" />
+    <ClInclude Include="Spinner.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Fly.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Pickup.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="UIElement.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="TextDX.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelPlatform.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayState.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="Spinner.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Fly.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Pickup.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="UIElement.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="TextDX.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{f18aa81e-c1c6-45cd-9826-c9b572ae6856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{32711f69-efaa-4be8-bb0f-ef70f7baacf5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
